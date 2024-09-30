@@ -11,6 +11,6 @@ My name is Nikita
 ------------------------------------------------------------------------------------
 
 * 🌍 Saint Petersburg, Russia
-* <img src="image.png" alt="alt text" width="15" height="15">
+* <img src="telegram.png" alt="alt text" width="15" height="15">
          https://t.me/sokolovN911
 

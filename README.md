@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
 ==============================================================================================================================
 
-![GIF](https://tenor.com/ru/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910)
+![GIF](123.gif)
 
 
 4th year student of Bonch-Bruevich State University majoring in software engineering
